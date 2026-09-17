@@ -30,7 +30,7 @@ android.ndk = 25b
 android.ndk_api = 24
 
 # Архитектуры (arm64 — современные телефоны, armeabi-v7a — старые)
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 
 # Разрешить отладку (для логов)
 android.debug = 1
