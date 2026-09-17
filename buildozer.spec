@@ -26,7 +26,7 @@ android.permissions = VIBRATE,POST_NOTIFICATIONS,WAKE_LOCK,FOREGROUND_SERVICE,RE
 # Версия API
 android.api = 33
 android.minapi = 24
-android.ndk = 25b
+# android.ndk = 25b
 android.ndk_api = 24
 
 # Архитектуры (arm64 — современные телефоны, armeabi-v7a — старые)
