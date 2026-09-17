@@ -11,7 +11,6 @@ fullscreen = 0
 android.permissions = VIBRATE,POST_NOTIFICATIONS,WAKE_LOCK,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM
 android.api = 33
 android.minapi = 24
-# android.ndk = 25b
 android.ndk_api = 24
 android.archs = arm64-v8a
 android.debug = 1
